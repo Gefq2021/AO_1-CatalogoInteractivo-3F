@@ -31,4 +31,4 @@ Instrucciones básicas para que el profesor pueda correr tu código:
 
 ## 🏛️ Institución
 
-Desarrollado para la **Municipalidad de Tres de Febrero (Tecno3F)**
+- **Municipalidad de Tres de Febrero (Tecno3F)**
