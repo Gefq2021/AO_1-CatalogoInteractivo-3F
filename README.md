@@ -22,3 +22,13 @@ Instrucciones básicas para que el profesor pueda correr tu código:
 ## Autor
 
 * **N. y A:**: Gerardo Fabián Quispe
+
+## 👨‍🏫 Instructores
+
+- Leonardo Murano  
+- Luis Mazo  
+- Jennifer Goldfeld  
+
+## 🏛️ Institución
+
+Desarrollado para la **Municipalidad de Tres de Febrero (Tecno3F)**
