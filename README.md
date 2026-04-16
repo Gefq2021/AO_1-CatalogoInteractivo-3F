@@ -1,16 +1,24 @@
-# React + Vite
+# Actividad Obligatoria 1: Catálogo Interactivo en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Objetivo:** Construir una aplicación desde cero utilizando Vite, React y JSX, demostrando el
+dominio de la creación de componentes, el paso de información (Props), el manejo del
+estado (useState) y el renderizado condicional de estilos.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Vite**
+* **React**
+* **CSS3**
+* **Google Fonts**
 
-## React Compiler
+## 🔧 Instalación y Ejecución
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Instrucciones básicas para que el profesor pueda correr tu código:
 
-## Expanding the ESLint configuration
+1. Clonar el repositorio.
+2. Ejecutar `npm install` para instalar las dependencias.
+3. Ejecutar `npm run dev` para iniciar el servidor local de Vite.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Autor
+
+* **N. y A:**: Gerardo Fabián Quispe
